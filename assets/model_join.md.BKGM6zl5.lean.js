@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as h,ae as n}from"./chunks/framework.Dgg8-8ov.js";const g=JSON.parse('{"title":"JOIN","description":"","frontmatter":{},"headers":[],"relativePath":"model/join.md","filePath":"model/join.md"}'),k={name:"model/join.md"};function t(p,s,l,e,E,d){return h(),a("div",null,s[0]||(s[0]=[n("",6)]))}const F=i(k,[["render",t]]);export{g as __pageData,F as default};
