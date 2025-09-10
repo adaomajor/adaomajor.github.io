@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as h}from"./chunks/framework.Dgg8-8ov.js";const g=JSON.parse('{"title":"FOREIGN KEYS","description":"","frontmatter":{},"headers":[],"relativePath":"model/fk.md","filePath":"model/fk.md"}'),l={name:"model/fk.md"};function t(k,s,p,e,d,r){return n(),a("div",null,s[0]||(s[0]=[h("",15)]))}const F=i(l,[["render",t]]);export{g as __pageData,F as default};

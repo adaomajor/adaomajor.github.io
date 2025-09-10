@@ -1,0 +1,128 @@
+Folder PATH listing
+Volume serial number is 3C83-5BA1
+C:.
+¦   404.html
+¦   adao-major.html
+¦   favicon.ico
+¦   google90da3a427f094b48.html
+¦   hashmap.json
+¦   index.html
+¦   logo.ico
+¦   mpf.png
+¦   README.md
+¦   robots.txt
+¦   structure.txt
+¦   vp-icons.css
+¦   whatsnew.html
+¦   
++---assets
+¦   ¦   adao-major.HcplXxBL.jpeg
+¦   ¦   app.DCe6Z7-9.js
+¦   ¦   controller_index.md.BCsEUTGa.js
+¦   ¦   controller_index.md.BCsEUTGa.lean.js
+¦   ¦   controller_index.md.J43NoS0N.js
+¦   ¦   controller_index.md.J43NoS0N.lean.js
+¦   ¦   index.md.Bpk_pRsQ.js
+¦   ¦   index.md.Bpk_pRsQ.lean.js
+¦   ¦   index.md.CJNViYlD.js
+¦   ¦   index.md.CJNViYlD.lean.js
+¦   ¦   inter-italic-cyrillic-ext.r48I6akx.woff2
+¦   ¦   inter-italic-cyrillic.By2_1cv3.woff2
+¦   ¦   inter-italic-greek-ext.1u6EdAuj.woff2
+¦   ¦   inter-italic-greek.DJ8dCoTZ.woff2
+¦   ¦   inter-italic-latin-ext.CN1xVJS-.woff2
+¦   ¦   inter-italic-latin.C2AdPX0b.woff2
+¦   ¦   inter-italic-vietnamese.BSbpV94h.woff2
+¦   ¦   inter-roman-cyrillic-ext.BBPuwvHQ.woff2
+¦   ¦   inter-roman-cyrillic.C5lxZ8CY.woff2
+¦   ¦   inter-roman-greek-ext.CqjqNYQ-.woff2
+¦   ¦   inter-roman-greek.BBVDIX6e.woff2
+¦   ¦   inter-roman-latin-ext.4ZJIpNVo.woff2
+¦   ¦   inter-roman-latin.Di8DUHzh.woff2
+¦   ¦   inter-roman-vietnamese.BjW4sHH5.woff2
+¦   ¦   intro_cli.md.BxKhdRQA.js
+¦   ¦   intro_cli.md.BxKhdRQA.lean.js
+¦   ¦   intro_cli.md.DjBPjOTP.js
+¦   ¦   intro_cli.md.DjBPjOTP.lean.js
+¦   ¦   intro_instalation.md.BPS_QCEf.js
+¦   ¦   intro_instalation.md.BPS_QCEf.lean.js
+¦   ¦   intro_instalation.md.DdzNL1Gv.js
+¦   ¦   intro_instalation.md.DdzNL1Gv.lean.js
+¦   ¦   model_deleting.md.BZeffcIG.js
+¦   ¦   model_deleting.md.BZeffcIG.lean.js
+¦   ¦   model_deleting.md.WDvnBAVq.js
+¦   ¦   model_deleting.md.WDvnBAVq.lean.js
+¦   ¦   model_finding.md.BxRxsRn-.js
+¦   ¦   model_finding.md.BxRxsRn-.lean.js
+¦   ¦   model_finding.md.fS253p0r.js
+¦   ¦   model_finding.md.fS253p0r.lean.js
+¦   ¦   model_fk.md.DIS5Z5T1.js
+¦   ¦   model_fk.md.DIS5Z5T1.lean.js
+¦   ¦   model_fk.md.DXhcGrCR.js
+¦   ¦   model_fk.md.DXhcGrCR.lean.js
+¦   ¦   model_index.md.DhAi9852.js
+¦   ¦   model_index.md.DhAi9852.lean.js
+¦   ¦   model_index.md.eVFkGgVg.js
+¦   ¦   model_index.md.eVFkGgVg.lean.js
+¦   ¦   model_join.md.BKGM6zl5.js
+¦   ¦   model_join.md.BKGM6zl5.lean.js
+¦   ¦   model_join.md.BMKeZmRm.js
+¦   ¦   model_join.md.BMKeZmRm.lean.js
+¦   ¦   model_rawqueries.md.DIeOBfFs.js
+¦   ¦   model_rawqueries.md.DIeOBfFs.lean.js
+¦   ¦   model_relationalop.md.DSCnFOzQ.js
+¦   ¦   model_relationalop.md.DSCnFOzQ.lean.js
+¦   ¦   model_saving.md.Cu8DqqS_.js
+¦   ¦   model_saving.md.Cu8DqqS_.lean.js
+¦   ¦   model_saving.md.DXdqQbt1.js
+¦   ¦   model_saving.md.DXdqQbt1.lean.js
+¦   ¦   model_updating.md.B49IzPIk.js
+¦   ¦   model_updating.md.B49IzPIk.lean.js
+¦   ¦   mpf.C_Evy9-3.png
+¦   ¦   req-res_req.md.BgZc4nrs.js
+¦   ¦   req-res_req.md.BgZc4nrs.lean.js
+¦   ¦   req-res_res.md.0XnIpKQI.js
+¦   ¦   req-res_res.md.0XnIpKQI.lean.js
+¦   ¦   routes_index.md.95aF7UMs.js
+¦   ¦   routes_index.md.95aF7UMs.lean.js
+¦   ¦   routes_index.md.BlWSRvkR.js
+¦   ¦   routes_index.md.BlWSRvkR.lean.js
+¦   ¦   style.DFTx90Kk.css
+¦   ¦   views_index.md.DWR--WeE.js
+¦   ¦   views_index.md.DWR--WeE.lean.js
+¦   ¦   whatsnew.md.CTgX1fRZ.js
+¦   ¦   whatsnew.md.CTgX1fRZ.lean.js
+¦   ¦   
+¦   +---chunks
+¦           framework.Dgg8-8ov.js
+¦           mpf.CGOxbNjs.js
+¦           theme.gHCrp1QU.js
+¦           
++---controller
+¦       index.html
+¦       
++---intro
+¦       cli.html
+¦       instalation.html
+¦       
++---model
+¦       deleting.html
+¦       finding.html
+¦       fk.html
+¦       index.html
+¦       join.html
+¦       rawqueries.html
+¦       relationalop.html
+¦       saving.html
+¦       updating.html
+¦       
++---req-res
+¦       req.html
+¦       res.html
+¦       
++---routes
+¦       index.html
+¦       
++---views
+        index.html
+        

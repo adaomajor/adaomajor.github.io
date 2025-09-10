@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://adaomajor.github.io/sitemap.xml
